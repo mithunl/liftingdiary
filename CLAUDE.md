@@ -2,6 +2,13 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## IMPORTANT: Docs-First Requirement
+
+Before generating any code, **always read the relevant file(s) in the `/docs` directory first**. Every feature, component, or change must be grounded in the design and requirements documented there. Do not make assumptions or proceed from general knowledge alone when a relevant doc exists.
+
+Current docs:
+- `docs/ui.md` — UI design specifications and component guidelines
+
 ## Commands
 
 ```bash
