@@ -8,6 +8,7 @@ Before generating any code, **always read the relevant file(s) in the `/docs` di
 
 Current docs:
 - `docs/ui.md` — UI design specifications and component guidelines
+- `docs/data-fetching.md` - Data fetching guidelines
 
 ## Commands
 
